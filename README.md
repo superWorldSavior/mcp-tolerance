@@ -1,7 +1,7 @@
 # @casys/mcp-tolerance
 
 [![JSR](https://jsr.io/badges/@casys/mcp-tolerance)](https://jsr.io/@casys/mcp-tolerance)
-[![Publish](https://github.com/Casys-AI/mcp-tolerance/actions/workflows/publish.yml/badge.svg)](https://github.com/Casys-AI/mcp-tolerance/actions/workflows/publish.yml)
+[![Publish](https://github.com/superWorldSavior/mcp-tolerance/actions/workflows/publish.yml/badge.svg)](https://github.com/superWorldSavior/mcp-tolerance/actions/workflows/publish.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-355b4b.svg)](LICENSE)
 
 Deterministic ISO 286-1:2010 size-tolerance calculations and linear 1D stack-ups,
